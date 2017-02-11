@@ -1,0 +1,44 @@
+#content{
+    text-align: center;
+    padding-top: 25%;
+    
+}
+
+.navbar-default{
+    background:  pink;
+    border:     0px;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    background:url(https://images.unsplash.com/photo-1415369629372-26f2fe60c467?dpr=1&amp;auto=format&amp;fit=crop&amp;w=767&amp;h=1151&amp;q=80&amp;cs=tinysrgb&amp;crop=);
+    background-size: cover;
+    background-position: center;
+    font-family:Indie Flower;
+}
+
+h1{
+   font-size:7.0em;
+   color: pink;  
+   text-shadow: 5px 5px 20px black,
+                5px 5px 20px black;
+}
+h3{
+   font-size:3.0em;  
+   color: pink;
+   text-shadow: 5px 5px 20px black,
+                5px 5px 20px black;
+}
+
+hr{
+    width:  400px;
+    border-top: 1px solid #f8f8f8;
+    border-bottom:  1px solid rgba(0,0,0,0.2)
+}
+
+.btn-default{
+    background:  pink;
+}
